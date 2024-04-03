@@ -14,6 +14,9 @@
             Console.Write("Welcome to ");
             Console.WriteLine("Programming 120");
 
+            //Black Pink
+            Console.WriteLine("Black Pink");
+
             //Console.Write("Please enter your name: ");
             //string username = Console.ReadLine();
             //Console/WriteLIne("Welcome " + username);
